@@ -7,8 +7,9 @@
 
 <!-- Animated banner (save banner.svg at repo root) -->
 <p align="center">
-  <img src="./banner.svg" alt="Devesh Patel - Cybersecurity Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/deva7727/deva7727/main/banner.svg" alt="Devesh Patel - Cybersecurity Banner" width="100%" />
 </p>
+
 
 ---
 
