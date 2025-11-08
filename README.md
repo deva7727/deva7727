@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👾 Hey, I'm Deva7727  
+### 🔴 Red Team | 🧠 Cybersecurity Enthusiast | ⚡ Automation Wizard
 
-<!--
-**deva7727/deva7727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Exploiting bugs, not people."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ My Arsenal
+![Python](https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-3C3C3D?logo=metasploit&logoColor=white)
+
+---
+
+### 🧩 Projects
+- 🧨 **PayloadForge** – Custom payload framework  
+- 🕵️ **ThreatHunt** – SIEM-based attack detection  
+- 🔐 **CyberScanner** – Network vulnerability mapper  
+
+---
+
+### 📊 GitHub Stats
+![Deva7727's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deva7727&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deva7727&layout=compact&theme=tokyonight)
