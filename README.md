@@ -23,8 +23,8 @@
 
 
 ### 💬 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deva_ic)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?logo=tryhackme&logoColor=white)](https://tryhackme.com/)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=black)](https://www.hackthebox.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deveshic)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/devaic)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/devaic)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deveshpatel7727@gmail.com)
 
