@@ -1,26 +1,30 @@
-# 👾 Hey, I'm Deva7727  
-### 🔴 Red Team | 🧠 Cybersecurity Enthusiast | ⚡ Automation Wizard
+# 👾 Hey, I’m Devesh Patel  
+### 🕶 Cybersecurity Enthusiast | Red Team  | Malware Analysis 
 
-> "Exploiting bugs, not people."
+> “Data wants to be free, but I secure it.”
 
 ---
 
 ### ⚙️ My Arsenal
 ![Python](https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
+![BlackArch](https://img.shields.io/badge/BlackArch-000000?logo=arch-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-3C3C3D?logo=metasploit&logoColor=white)
 
 ---
 
-### 🧩 Projects
-- 🧨 **PayloadForge** – Custom payload framework  
-- 🕵️ **ThreatHunt** – SIEM-based attack detection  
-- 🔐 **CyberScanner** – Network vulnerability mapper  
+### 🧠 Projects
+- 🧩 **ZeroDayLab** → Collection of exploit simulations & PoCs  
+- 🕵️ **ThreatHunt** → SIEM-based attack detection scripts  
+- 🧨 **PayloadSmith** → Custom payload builder framework  
+- 🔐 **CyberForge** → API-driven vulnerability scanner  
 
----
 
-### 📊 GitHub Stats
-![Deva7727's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deva7727&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deva7727&layout=compact&theme=tokyonight)
+
+### 💬 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deva_ic)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?logo=hackthebox&logoColor=black)](https://www.hackthebox.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deveshpatel7727@gmail.com)
+
